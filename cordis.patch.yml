@@ -1,0 +1,7 @@
+# dsh-restart-button — host-half mount row (browser half is discovered by
+# client-modules through the dsh.client manifest; no patch row needed for it).
+# id must be unique in the composed web tree.
+- insert:
+    - id: dsh-restart-button
+      name: dsh-restart-button
+      config: {}
